@@ -53,5 +53,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is part of the Course of Web & Hybrid development which is taken at Grand Hackathon.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
